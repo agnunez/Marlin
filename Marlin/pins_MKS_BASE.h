@@ -50,4 +50,4 @@
 #include "pins_RAMPS.h"
 
 #undef FIL_RUNOUT_PIN
-#define FIL_RUNOUT_PIN 19 // @agnuca: Change Filament Sensor to Z+ endstop connector at MKS_BASE_1.4
+#define FIL_RUNOUT_PIN 19 // @agnunez: Change Filament Sensor to Z+ endstop connector at MKS_BASE_1.4

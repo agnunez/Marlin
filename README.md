@@ -9,7 +9,7 @@ For complete Marlin documentation click over to the [Marlin Homepage <marlinfw.o
 
 ## Stable Release Branch
 
-This Release branch contains the latest tagged version of Marlin (currently 1.1.8 – December 2017), customized for TEVO Tornado (March 2018) available at: (https://github.com/agnunez/Marlin_Tornado)
+This Release branch contains the latest tagged version of Marlin (currently 1.1.8 – December 2017), customized for TEVO Tornado (March 2018) available at: [Marlin_Tornado](https://github.com/agnunez/Marlin_Tornado/wiki)
 
 Previous releases of Marlin include [1.0.2-2](https://github.com/MarlinFirmware/Marlin/tree/1.0.2-2) (December 2016) and [1.0.1](https://github.com/MarlinFirmware/Marlin/tree/1.0.1) (December 2014). Any version of Marlin prior to 1.0.1 (when we started tagging versions) can be collectively referred to as Marlin 1.0.0.
 
